@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkthe_razor_king"]=self["webpackChunkthe_razor_king"]||[]).push([[443],{7381:function(n,r,t){t.r(r),t.d(r,{default:function(){return f}});var a=t(3396);const e={class:"about"},u=(0,a._)("h1",null,"This is an about page",-1),s=[u];function i(n,r){return(0,a.wg)(),(0,a.iD)("div",e,s)}var c=t(89);const o={},h=(0,c.Z)(o,[["render",i]]);var f=h}}]);
+//# sourceMappingURL=about.0dba9d9c.js.map
