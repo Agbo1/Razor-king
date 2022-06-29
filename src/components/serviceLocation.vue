@@ -1,11 +1,11 @@
 <template>
 <div class="w-full py-7 2xl:w-full  lg:justify-between md:w-full lg:w-full lg:flex justify-between px-10 2xl:gap-x-96 2xl:p-56 ">
     <div class="lg:w-96  md:w-full 2xl:w-full md:p-4">
-        <h1 class="text-left mb-4 text-lg md:text-lg lg:text-lg font-bold 2xl:text-6xl 2xl:mb-8">Block Of Text About Our We Stand Out</h1>
+        <h1 class=" primary_heading_sub text-left mb-4 text-lg md:text-lg lg:text-lg font-bold 2xl:text-6xl 2xl:mb-8">Block Of Text About Our We Stand Out</h1>
         <p class="text-left text-sm md:text-sm 2xl:text-5xl 2xl:mb-10">The container class sets the max-width of an element to match the min-width of the current breakpoint. This is useful if you’d prefer to design for a fixed set of screen sizes instead of trying to accommodate a fully fluid viewport.</p>
         <p class="text-left my-2 text-sm md:text-sm 2xl:text-5xl">The container class sets the max-width of an element to match the min-width of the current breakpoint. This is useful if you’d prefer to design for a fixed set of screen sizes instead of trying to accommodate a fully fluid viewport.</p>
 
-        <div class=" hidden md:flex md:justify-between lg:text-base md:text-base pt-8 md:w-full 2xl:text-5xl 2xl:mt-28 md:gap-8">
+        <div class="  hidden md:flex md:justify-between lg:text-base md:text-base pt-8 md:w-full 2xl:text-5xl 2xl:mt-28 md:gap-8">
             <div class="flex 2xl:gap-6 md:gap-6">
                 <div class="">
                     <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 2xl:h-14 2xl:w-14 " fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
@@ -77,12 +77,12 @@
     </div>
     <div class="lg:w-80 md:my-10 lg:my-0 2xl:my-0 md:w-96 xl:mr-3 2xl:w-full">
         <div class="mt-5 md:mt-0 md:p-4">
-            <h3 class="font-bold text-lg md:text-lg text-left font-sans lg:text-xl 2xl:text-6xl 2xl:mb-8">Location</h3>
+            <h3 class=" primary_heading_sub font-bold text-lg md:text-lg text-left font-sans lg:text-xl 2xl:text-6xl 2xl:mb-8">Location</h3>
             <p class="mt-2 text-normal md:text-sm font-sans text-black  text-left 2xl:text-5xl">10 Oyes Plaza, Opposite Dutse-Alhaji market besides Zenith Bank, along Bwari expressway Bwari.</p>
         </div>
 
         <div class="md:flex my-3 w-32 2xl:w-full md:w-full md:p-4 text-left ">
-            <p class="font-bold border-b-2  md:text-lg font-sans text-normal border-black lg:text-lg 2xl:text-6xl  ">See directions</p>
+            <p class="font-bold border-b-2  md:text-lg font-sans text-normal border-black lg:text-lg 2xl:text-6xl primary_heading_sub ">See directions</p>
 
         </div>
         <div class="group inline-block w-full md:pl-3 flex items-center ">
