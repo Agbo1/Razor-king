@@ -33,8 +33,8 @@
     </div>
     <div class="m-8">
         <h1 class=" text-xl lg:text-2xl xl:text-2xl font-bold 2xl:text-5xl primary_heading_sub">The Razor King Barber</h1>
-        <p class="my-3 lg:text-lg xl:text-xl xl:my-8 2xl:text-3xl">Barber Shop In Dutse-Alhaji</p>
-        <button class="btn animated_btn btn_effect bg-white bg-transparent w-36 lg:w-44 lg:text-xl xl:w-40 xl:p-2 xl:text-xl 2xl:text-3xl 2xl:w-80 2xl:p-5 xl:border-gray-600 p-2 lg:p-2 font-bold border-gray-500 rounded-md border-2 text-black">Contact</button>
+        <p class="my-3 lg:text-lg xl:text-xl xl:my-8 2xl:text-4xl">Barber Shop In Dutse-Alhaji</p>
+        <button class="btn animated_btn btn_effect bg-white bg-transparent w-36 lg:w-44 lg:text-xl xl:w-40 xl:p-2 xl:text-xl 2xl:text-4gitxl 2xl:w-80 2xl:p-5 xl:border-gray-600 p-2 lg:p-2 font-bold border-gray-500 rounded-md border-2 text-black">Contact</button>
     </div>
 
 </div>

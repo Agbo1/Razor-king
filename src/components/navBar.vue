@@ -24,7 +24,7 @@
 
     <div class="w-full px-5 leading-3">
       <h1 class=" primary_heading_main text-3xl lg:text-4xl font-serif text-gray-200 font-bold my-5 xl:text-4xl 2xl:text-9xl font-playfair">Nothings Beats A <br> fresh New Haircut</h1>
-      <p class=" primary_heading_sub text-lg md:text-lg font-medium font-sans text-white xl:text-2xl 2xl:text-2xl ">Here goes the value proposition and <br> more info of the brand</p>
+      <p class=" primary_heading_sub text-lg md:text-lg font-medium font-sans text-white xl:text-2xl 2xl:text-5xl ">Here goes the value proposition and <br> more info of the brand</p>
 
       <clickButton />
       
