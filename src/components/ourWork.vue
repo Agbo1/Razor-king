@@ -3,33 +3,46 @@
     <!-- our works images -->
     <h2 class=" font-bold text-base m-4 font-playfair md:text-xl lg:text-2xl  primary_heading_sub">Our Works</h2>
     <div class="p-4 ">
-        <div class=" primary_heading_main md:flex p-4 md:w-full">
-            <div class="m-1 lg:w-full md:mx-1">
-                <a href="http://www.google.com"><img src="../assets/barbs.jpeg" alt="" class="md:w-[416px] lg:w-full haircut_pic "></a>
+        <div class=" primary_heading_main w-full grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 p-4 gap-2">
+            <div class="picture">
+                <a href="http://www.google.com"><img src="../assets/barbs.jpeg" alt="" class="haircut_pic "></a>
             </div>
-            <div class=" md:w-[416px] lg:w-full m-1 md:mx-1">
-                <a href="http://www.google.com"><img src="../assets/barbs.jpeg" alt="" class="w-full haircut_pic"></a> </div>
-            <div class=" md:w-[416px] lg:w-full m-1 md:m-1 md:mx-1">
-                <a href="http://www.google.com"><img src="../assets/barbs.jpeg" alt="" class="w-full haircut_pic"></a> </div>
+            <div class=" picture">
+                <a href="http://www.google.com"><img src="../assets/barbs.jpeg" alt="" class=" haircut_pic"></a>
+            </div>
+            <div class="picture">
+                <a href="http://www.google.com"><img src="../assets/barbs.jpeg" alt="" class="haircut_pic"></a>
+            </div>
+            <div class="picture">
+                <a href="http://www.google.com"><img src="../assets/barbs.jpeg" alt="" class="haircut_pic"></a>
+            </div>
         </div>
-        <div class=" primary_heading_sub md:flex px-5">
-            <div class="md:w-full md:mr-2 lg:mr-2 lg:w-6/12">
+        <div class=" primary_heading_sub gap-2 md:flex px-4">
+            <div class="md:w-full my-1  ">
                 <a href="http://www.google.com"><img src="../assets/barbs.jpeg" alt="" class="md:w-[515px] lg:w-full haircut_pic"></a>
             </div>
-            <div class=" md:w-full mt-2 md:mt-0 lg:w-6/12">
+            <div class=" md:w-full my-1 ">
                 <a href="http://www.google.com"><img src="../assets/barbs.jpeg" alt="" class="md:w-[515px] lg:w-full haircut_pic"></a>
             </div>
+            <div class=" md:w-full my-1">
+                <a href="http://www.google.com"><img src="../assets/barbs.jpeg" alt="" class="md:w-[515px] lg:w-full haircut_pic"></a>
+            </div> 
         </div>
-        <div class=" primary_heading_main md:flex p-4">
-            <div class=" md:w-[416px] lg:w-full m-1 md:mx-1">
-                <a href="http://www.google.com"><img src="../assets/barbs.jpeg" alt="" class="w-full haircut_pic"></a> </div>
-            <div class=" md:w-[416px] lg:w-full m-1 md:mx-1">
-                <a href="http://www.google.com"><img src="../assets/barbs.jpeg" alt="" class="w-full haircut_pic"></a>
+        <div class=" primary_heading_main w-full grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 p-4 gap-2">
+            <div class="picture">
+                <a href="http://www.google.com"><img src="../assets/barbs.jpeg" alt="" class="haircut_pic "></a>
             </div>
-            <div class="md:w-[416px] lg:w-full m-1 md:mx-1">
-                <a href="http://www.google.com"><img src="../assets/barbs.jpeg" alt="" class="w-full haircut_pic"></a>
+            <div class=" picture">
+                <a href="http://www.google.com"><img src="../assets/barbs.jpeg" alt="" class=" haircut_pic"></a>
+            </div>
+            <div class="picture">
+                <a href="http://www.google.com"><img src="../assets/barbs.jpeg" alt="" class="haircut_pic"></a>
+            </div>
+            <div class="picture">
+                <a href="http://www.google.com"><img src="../assets/barbs.jpeg" alt="" class="haircut_pic"></a>
             </div>
         </div>
+
     </div>
     <div class="m-8">
         <h1 class=" text-xl md:text-lg lg:text-2xl  font-bold primary_heading_sub">The Razor King Barber</h1>
@@ -47,13 +60,21 @@ export default {
 </script>
 
 <style>
-.haircut_pic:hover {
+/* .haircut_pic:hover {
 
     animation: moveIn_pic 3s;
 
     transform: translateY(-1px);
     box-shadow: 0 .5rem 1rem rgba(0,0,0,.2);
+} */
+
+.picture {
+    @apply col-span-1 w-full sm:w-full mt-2;
 }
+
+/* .picture_1 {
+    @apply col-span-1 mt-2 md:w-[416px] lg:w-1/5;
+} */
 
 @keyframes moveIn_pic {
     0% {

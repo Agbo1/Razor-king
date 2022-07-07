@@ -11,22 +11,22 @@
               hover:bg-transparent text-gray-400 md:text-lg lg:text-xl">Message</button>
         </div>
     </div>
-    <div class="md:flex md:justify-around text-base p-6 mx-20 md:w-full lg:w-full md:gap-5">
-        <div class=" text-gray-400 text-left md:w-40 leading-8 py-3 md:text-normal lg:text-normal lg:w-8/12">
+    <div class="md:flex md:justify-around text-base p-6 md:w-full lg:w-full md:gap-5">
+        <div class=" text-gray-400 text-left md:w-40 leading-8 py-3 md:text-normal lg:text-normal lg:w-1/5">
             <h1 class=" font-medium text-gray-200 text-base md:text-lg lg:text- primary_heading_main">Contact us</h1>
             <p class=" text-sm leading-10 md:text-normal lg:text-normal ">10 Oyes Plaza, Opposite Dutse-Alhaji market 
                <br> besides Zenith Bank, along Bwari expressway Bwari.</p>
             <p class="">info@gmail.com</p>
             <p>+234455234789</p>
         </div>
-        <div class=" text-sm text-gray-400 text-left md:w-48 py-4 leading-8 md:text-normal lg:text-normal font-inter lg:w-6/12">
+        <div class=" text-sm text-gray-400 text-left md:w-48 py-4 leading-8 md:text-normal lg:text-normal font-inter lg:w-1/5">
             <h1 class="font-medium text-gray-200 text-base md:text-lg lg:text-xl primary_heading_main">Help</h1>
             <h1>FAQs</h1>
-            <h1 class="xl:my-2">REturn & Refund Policy</h1>
+            <h1 class="">REturn & Refund Policy</h1>
             <h1>Privacy Policy</h1>
-            <h1 class="xl:my-3">Terms & Conditions</h1>
+            <h1 class="">Terms & Conditions</h1>
         </div>
-        <div class=" text-sm text-left text-gray-400 md:w-48 py-4 leading-8 md:text-normal lg:text-normal lg:w-6/12 ">
+        <div class=" text-sm text-left text-gray-400 md:w-48 py-4 leading-8 md:text-normal lg:text-normal lg:w-1/5 ">
             <h1 class=" font-medium text-gray-200 text-base md:text-lg lg:text-base primary_heading_main">Follow Us</h1>
             <h1>Facebook</h1>
             <h1 class="">Twitter</h1>

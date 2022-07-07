@@ -1,6 +1,6 @@
 <template>
-<div class="w-full py-7 lg:justify-between md:w-full lg:w-full lg:flex justify-between px-10 lg:gap-24 ">
-    <div class="lg:w-6/12  md:w-6/12  md:p-4">
+<div class="w-full py-7 lg:justify-between md:w-full lg:w-full md:flex justify-between px-10 lg:gap-24 ">
+    <div class=" md:w-6/12  md:p-4">
         <h1 class=" primary_heading_sub text-left mb-4 text-lg md:text-lg lg:text-2xl font-bold">Block Of Text About Our We Stand Out</h1>
         <p class="text-left text-sm md:text-sm lg:text-xl">The container class sets the max-width of an element to match the min-width of the current breakpoint. This is useful if you’d prefer to design for a fixed set of screen sizes instead of trying to accommodate a fully fluid viewport.</p>
         <p class="text-left my-2 text-sm md:text-sm lg:text-xl">The container class sets the max-width of an element to match the min-width of the current breakpoint. This is useful if you’d prefer to design for a fixed set of screen sizes instead of trying to accommodate a fully fluid viewport.</p>
@@ -53,7 +53,7 @@
         </div>
 
     </div>
-    <div class="lg:w-6/12 md:my-10 lg:my-0 md:w-6/12 ">
+    <div class=" md:w-6/12 md:p-4">
         <div class="mt-5 md:mt-0 md:p-4">
             <h3 class=" primary_heading_sub font-bold text-lg md:text-lg text-left font-sans lg:text-2xl ">Location</h3>
             <p class="mt-2 text-normal md:text-sm font-sans text-black  text-left lg:text-xl">10 Oyes Plaza, Opposite Dutse-Alhaji market besides Zenith Bank, along Bwari expressway Bwari.</p>
